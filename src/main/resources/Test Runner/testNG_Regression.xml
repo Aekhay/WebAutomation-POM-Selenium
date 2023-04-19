@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ounass Application Test Automation Test Suite">
+
+	<test name="Ounass App Test Cases">
+		<classes>
+			<class name="com.ounass.qa.testcases.LoginPageTest"></class>
+			<class name="com.ounass.qa.testcases.HomePageTest"></class>
+			<class name="com.ounass.qa.testcases.WishlistPageTest"></class>
+
+		</classes>
+	</test>
+</suite>

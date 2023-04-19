@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-12T15:10:05 PKT" name="Ounass Application Test Automation Test Suite" finished-at="2023-04-12T15:15:28 PKT" duration-ms="322707">
+    <groups>
+    </groups>
+    <test started-at="2023-04-12T15:10:05 PKT" name="Ounass App Test Cases" finished-at="2023-04-12T15:15:28 PKT" duration-ms="322707">
+      <class name="com.ounass.qa.testcases.WishlistPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ounass.qa.testcases.WishlistPageTest@5223e5ee]" started-at="2023-04-12T15:14:16 PKT" name="setUp" finished-at="2023-04-12T15:14:53 PKT" duration-ms="36497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyWishlistTitleTest()[pri:1, instance:com.ounass.qa.testcases.WishlistPageTest@5223e5ee]" started-at="2023-04-12T15:14:53 PKT" name="verifyWishlistTitleTest" finished-at="2023-04-12T15:14:53 PKT" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWishlistTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ounass.qa.testcases.WishlistPageTest@5223e5ee]" started-at="2023-04-12T15:14:53 PKT" name="tearDown" finished-at="2023-04-12T15:14:53 PKT" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ounass.qa.testcases.WishlistPageTest@5223e5ee]" started-at="2023-04-12T15:14:53 PKT" name="setUp" finished-at="2023-04-12T15:15:28 PKT" duration-ms="34661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyWishlistitemTest()[pri:2, instance:com.ounass.qa.testcases.WishlistPageTest@5223e5ee]" started-at="2023-04-12T15:15:28 PKT" name="verifyWishlistitemTest" finished-at="2023-04-12T15:15:28 PKT" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWishlistitemTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ounass.qa.testcases.WishlistPageTest@5223e5ee]" started-at="2023-04-12T15:15:28 PKT" name="tearDown" finished-at="2023-04-12T15:15:28 PKT" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ounass.qa.testcases.WishlistPageTest -->
+      <class name="com.ounass.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ounass.qa.testcases.LoginPageTest@12e61fe6]" started-at="2023-04-12T15:10:05 PKT" name="setUp" finished-at="2023-04-12T15:10:25 PKT" duration-ms="19961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:1, instance:com.ounass.qa.testcases.LoginPageTest@12e61fe6]" started-at="2023-04-12T15:10:25 PKT" name="loginTest" finished-at="2023-04-12T15:10:38 PKT" duration-ms="12774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ounass.qa.testcases.LoginPageTest@12e61fe6]" started-at="2023-04-12T15:10:38 PKT" name="tearDown" finished-at="2023-04-12T15:10:38 PKT" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ounass.qa.testcases.LoginPageTest@12e61fe6]" started-at="2023-04-12T15:10:38 PKT" name="setUp" finished-at="2023-04-12T15:10:56 PKT" duration-ms="17547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:2, instance:com.ounass.qa.testcases.LoginPageTest@12e61fe6]" started-at="2023-04-12T15:10:56 PKT" name="loginPageTitleTest" finished-at="2023-04-12T15:10:56 PKT" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ounass.qa.testcases.LoginPageTest@12e61fe6]" started-at="2023-04-12T15:10:56 PKT" name="tearDown" finished-at="2023-04-12T15:10:56 PKT" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ounass.qa.testcases.LoginPageTest@12e61fe6]" started-at="2023-04-12T15:10:56 PKT" name="setUp" finished-at="2023-04-12T15:11:13 PKT" duration-ms="16585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginbtnTest()[pri:2, instance:com.ounass.qa.testcases.LoginPageTest@12e61fe6]" started-at="2023-04-12T15:11:13 PKT" name="loginbtnTest" finished-at="2023-04-12T15:11:17 PKT" duration-ms="4033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginbtnTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ounass.qa.testcases.LoginPageTest@12e61fe6]" started-at="2023-04-12T15:11:17 PKT" name="tearDown" finished-at="2023-04-12T15:11:17 PKT" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ounass.qa.testcases.LoginPageTest -->
+      <class name="com.ounass.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ounass.qa.testcases.HomePageTest@78b66d36]" started-at="2023-04-12T15:11:17 PKT" name="setUp" finished-at="2023-04-12T15:11:43 PKT" duration-ms="26126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAccountTitleTest()[pri:1, instance:com.ounass.qa.testcases.HomePageTest@78b66d36]" started-at="2023-04-12T15:11:43 PKT" name="verifyAccountTitleTest" finished-at="2023-04-12T15:11:59 PKT" duration-ms="16024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccountTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ounass.qa.testcases.HomePageTest@78b66d36]" started-at="2023-04-12T15:11:59 PKT" name="tearDown" finished-at="2023-04-12T15:11:59 PKT" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ounass.qa.testcases.HomePageTest@78b66d36]" started-at="2023-04-12T15:11:59 PKT" name="setUp" finished-at="2023-04-12T15:12:25 PKT" duration-ms="25397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEmailaddressTest()[pri:2, instance:com.ounass.qa.testcases.HomePageTest@78b66d36]" started-at="2023-04-12T15:12:25 PKT" name="verifyEmailaddressTest" finished-at="2023-04-12T15:12:36 PKT" duration-ms="10965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmailaddressTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ounass.qa.testcases.HomePageTest@78b66d36]" started-at="2023-04-12T15:12:36 PKT" name="tearDown" finished-at="2023-04-12T15:12:36 PKT" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ounass.qa.testcases.HomePageTest@78b66d36]" started-at="2023-04-12T15:12:36 PKT" name="setUp" finished-at="2023-04-12T15:13:00 PKT" duration-ms="24356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyWishlistLinkTest()[pri:3, instance:com.ounass.qa.testcases.HomePageTest@78b66d36]" started-at="2023-04-12T15:13:00 PKT" name="verifyWishlistLinkTest" finished-at="2023-04-12T15:13:10 PKT" duration-ms="10264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWishlistLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ounass.qa.testcases.HomePageTest@78b66d36]" started-at="2023-04-12T15:13:10 PKT" name="tearDown" finished-at="2023-04-12T15:13:11 PKT" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ounass.qa.testcases.HomePageTest@78b66d36]" started-at="2023-04-12T15:13:11 PKT" name="setUp" finished-at="2023-04-12T15:13:35 PKT" duration-ms="24358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBaglistLinkTest()[pri:4, instance:com.ounass.qa.testcases.HomePageTest@78b66d36]" started-at="2023-04-12T15:13:35 PKT" name="verifyBaglistLinkTest" finished-at="2023-04-12T15:13:46 PKT" duration-ms="10656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBaglistLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ounass.qa.testcases.HomePageTest@78b66d36]" started-at="2023-04-12T15:13:46 PKT" name="tearDown" finished-at="2023-04-12T15:13:46 PKT" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ounass.qa.testcases.HomePageTest@78b66d36]" started-at="2023-04-12T15:13:46 PKT" name="setUp" finished-at="2023-04-12T15:14:14 PKT" duration-ms="28131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomepagebtnTest()[pri:5, instance:com.ounass.qa.testcases.HomePageTest@78b66d36]" started-at="2023-04-12T15:14:14 PKT" name="verifyHomepagebtnTest" finished-at="2023-04-12T15:14:16 PKT" duration-ms="2285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepagebtnTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ounass.qa.testcases.HomePageTest@78b66d36]" started-at="2023-04-12T15:14:16 PKT" name="tearDown" finished-at="2023-04-12T15:14:16 PKT" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ounass.qa.testcases.HomePageTest -->
+    </test> <!-- Ounass App Test Cases -->
+  </suite> <!-- Ounass Application Test Automation Test Suite -->
+</testng-results>
