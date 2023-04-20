@@ -50,6 +50,7 @@ public class TestBase {
 			options.addArguments("--disable-gpu");
 			options.addArguments("--disable-extensions");
 			options.addArguments("--dns-prefetch-disable");
+			options.addArguments("--headless");
 			
 		} else if (browserName.equals("FireFox")) {
 			
