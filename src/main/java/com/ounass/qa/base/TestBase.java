@@ -44,13 +44,11 @@ public class TestBase {
 			
 			System.setProperty("webdriver.chrome.driver",
 					"/Users/wrp/git/Selenium-WebAutomation-POM/Selenium-WebAutomation-POM/src/main/resources/Drivers/chromedriver");
-			driver = new ChromeDriver();
 			
 			ChromeOptions options = new ChromeOptions();
-			options.addArguments("--disable-gpu");
-			options.addArguments("--disable-extensions");
-			options.addArguments("--dns-prefetch-disable");
-			options.addArguments("--headless");
+			options.addArguments("headless");
+			
+			driver = new ChromeDriver();
 			
 		} else if (browserName.equals("FireFox")) {
 			
